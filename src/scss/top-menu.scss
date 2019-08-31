@@ -1,0 +1,49 @@
+@import 'mixins.scss';
+
+$menu-height: 40px;
+
+.menu {
+	background-color: #303030;
+  margin: 0 auto 35px;
+
+  &-list {
+    display: flex;
+    height: $menu-height;
+    padding-left: 0;
+  
+    &__item {
+      &-link {
+        position: relative;
+        @include headerLink;
+        padding: 10px 0;
+        height: $menu-height;
+        line-height: $menu-height;
+
+        &:after {
+          content: '';
+          display: block;
+          width: 100%;
+          height: 3px;
+          position: absolute;
+          top: 100%;
+          left: 0;
+          background: red;
+          visibility: hidden;
+          opacity: 0;
+          transition: opacity 0.15s;
+        }
+    
+        &:hover {
+          color: white;
+    
+          &:after {
+            visibility: visible;
+            opacity: 1;
+            transition: opacity 0.15s;
+          }
+        }
+      }   
+    }
+  }
+}
+

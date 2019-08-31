@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   width="100%"
+   height="100%"
+   style="enable-background:new 0 0 1000 1000;"
+   xml:space="preserve"
+  ><style
+     type="text/css"
+     id="style3">
+	.st0{fill:#B9921D;}
+	.st1{fill:#FFFFFF;}
+</style><switch
+     id="switch5"
+     transform="translate(38.799988,18.5)"><g
+       id="g7"><g
+         id="g9"><circle
+           class="st0"
+           cx="461.20001"
+           cy="481.5"
+           r="414.89999"
+           id="circle11"
+           style="fill:#b9921d" /><g
+           id="g13"><g
+             id="g15"><path
+               class="st1"
+               d="m 193.2,636.2 0,-309.4 268,-154.7 268,154.7 0,309.4 -268,154.7 -268,-154.7 z m 16.2,-300 0,290.7 251.7,145.3 251.7,-145.3 0,-290.7 L 461.2,190.8 209.4,336.2 Z"
+               id="path17"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" /></g><g
+             id="g19"><rect
+               x="331.20001"
+               y="551.09998"
+               transform="matrix(0.5,-0.866,0.866,0.5,-186.4279,790.1644)"
+               class="st1"
+               width="519.70001"
+               height="10.8"
+               id="rect21"
+               style="fill:#ffffff" /></g><g
+             id="g23"><rect
+               x="585.70001"
+               y="146.7"
+               transform="matrix(0.8661,-0.4999,0.4999,0.8661,-124.0602,349.9402)"
+               class="st1"
+               width="10.8"
+               height="519.70001"
+               id="rect25"
+               style="fill:#ffffff" /></g><g
+             id="g27"><rect
+               x="325.79999"
+               y="296.70001"
+               transform="matrix(0.8661,-0.4999,0.4999,0.8661,-233.8591,240.131)"
+               class="st1"
+               width="10.8"
+               height="519.70001"
+               id="rect29"
+               style="fill:#ffffff" /></g><g
+             id="g31"><rect
+               x="71.400002"
+               y="401.10001"
+               transform="matrix(0.5,-0.866,0.866,0.5,-186.4282,490.1216)"
+               class="st1"
+               width="519.70001"
+               height="10.8"
+               id="rect33"
+               style="fill:#ffffff" /></g></g></g></g></switch></svg>

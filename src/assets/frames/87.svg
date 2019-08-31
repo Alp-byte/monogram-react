@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="36.342201232910156 260.8761291503906 539.2850952148438 266.0376281738281"
+	 style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview43" inkscape:current-layer="Layer_1" inkscape:cx="23.305085" inkscape:cy="500" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-maximized="0" inkscape:window-width="671" inkscape:window-x="0" inkscape:window-y="34" inkscape:zoom="0.236" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="g7">
+	<g id="g9">
+		<g id="g11">
+			<g id="g13">
+				
+					<ellipse id="ellipse17" transform="matrix(7.948399e-02 -0.9968 0.9968 7.948399e-02 -13.5229 686.0988)" cx="364.7" cy="350.4" rx="42.7" ry="28.9"/>
+				
+					<ellipse id="ellipse19" transform="matrix(0.1604 -0.9871 0.9871 0.1604 56.7593 682.0678)" cx="429.3" cy="307.7" rx="42.7" ry="28.9"/>
+				
+					<ellipse id="ellipse21" transform="matrix(0.3287 -0.9444 0.9444 0.3287 22.5794 686.6819)" cx="494.3" cy="327.5" rx="42.7" ry="28.9"/>
+				
+					<ellipse id="ellipse23" transform="matrix(0.4686 -0.8834 0.8834 0.4686 -72.8254 681.5649)" cx="530.1" cy="401.3" rx="42.7" ry="28.9"/>
+			</g>
+			<path d="M510.9,483.9c-1.2-8.5-3.7-17-5.8-24.8v0c-5.8-21.5-12.6-42.8-20.1-63.8c-5.6-15.6-13.3-36.4-31.2-41.3
+				c-19.5-5.3-37.1,8.5-51.8,19.3c-24.5,18.2-49.7,37.3-70.6,60.2c-15.8,17.2-12.1,43.7,10.5,52.3c21.1,8,44.1,7.3,65.8,14.4
+				c18.5,6,36.2,14.1,54.3,21.4c13.8,5.5,31.6,10,42.3-4C511.9,507.5,512.6,495.7,510.9,483.9z M429.5,486.6
+				c-28.8,0-52.1-23.3-52.1-52.1s23.3-52.1,52.1-52.1s52.1,23.3,52.1,52.1S458.3,486.6,429.5,486.6z"/>
+		</g>
+		<g id="g27">
+			<g id="g29">
+				
+					<ellipse id="ellipse33" transform="matrix(0.9968 -7.948399e-02 7.948399e-02 0.9968 -27.0678 20.7604)" cx="247.2" cy="350.4" rx="28.9" ry="42.7"/>
+				
+					<ellipse id="ellipse35" transform="matrix(0.9871 -0.1604 0.1604 0.9871 -46.986 33.2853)" cx="182.7" cy="307.7" rx="28.9" ry="42.7"/>
+				
+					<ellipse id="ellipse37" transform="matrix(0.9444 -0.3287 0.3287 0.9444 -101.0979 56.8581)" cx="117.6" cy="327.4" rx="28.9" ry="42.7"/>
+				
+					<ellipse id="ellipse39" transform="matrix(0.8834 -0.4686 0.4686 0.8834 -178.4711 85.1522)" cx="81.9" cy="401.2" rx="28.9" ry="42.7"/>
+			</g>
+			<path d="M280.5,433.4c-20.9-22.8-46.1-42-70.6-60.2c-14.6-10.8-32.3-24.5-51.8-19.3c-17.8,4.9-25.6,25.7-31.2,41.3
+				c-7.5,21-14.3,42.3-20.1,63.8v0c-2.1,7.8-4.6,16.3-5.8,24.8c-1.7,11.8-1,23.6,6.5,33.5c10.6,14,28.5,9.5,42.3,4
+				c18.1-7.3,35.8-15.4,54.3-21.4c21.7-7,44.7-6.4,65.8-14.4C292.6,477.1,296.3,450.6,280.5,433.4z M182.5,486.6
+				c-28.8,0-52.1-23.3-52.1-52.1s23.3-52.1,52.1-52.1c28.8,0,52.1,23.3,52.1,52.1S211.3,486.6,182.5,486.6z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+.react-contextmenu {
+  border-radius: 3px;
+  padding: 5px 25px 5px 10px;
+  background: #bebebe;
+  .react-contextmenu-item {
+    padding: 3px;
+    &:hover {
+      background: #d0d2d2;
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   width="100%"
+   height="100%"
+   style="enable-background:new 0 0 1000 1000;"
+   xml:space="preserve"
+   ><style
+     type="text/css"
+     id="style3">
+	.st0{fill:#B9921D;}
+</style><switch
+     id="switch5"
+     transform="translate(-55.85,40.45)"><g
+       id="g7"><g
+         id="g9"><g
+           id="g11"><path
+             class="st0"
+             d="M 751.7,798.8 360,798.8 164.2,459.6 360,120.4 l 391.7,0 195.8,339.2 -195.8,339.2 z M 368,784.9 743.7,784.9 931.5,459.5 743.7,134.2 368,134.2 180.2,459.6 368,784.9 Z"
+             id="path13"
+             inkscape:connector-curvature="0"
+             style="fill:#b9921d" /></g><g
+           id="g15"><path
+             class="st0"
+             d="m 555.9,851.2 -339.2,-195.8 0,-391.6 3.5,-2 335.7,-193.9 339.2,195.8 0,391.6 -3.5,2 -335.7,193.9 z M 230.5,647.4 555.9,835.2 881.3,647.4 881.3,271.7 555.9,83.9 230.5,271.7 l 0,375.7 z"
+             id="path17"
+             inkscape:connector-curvature="0"
+             style="fill:#b9921d" /></g></g></g></switch></svg>

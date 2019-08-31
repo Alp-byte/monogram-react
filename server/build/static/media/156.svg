@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+	 width="100%" height="100%"
+	 style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+	.st1{fill:#B9921D;}
+</style>
+<switch>
+	<g>
+		<g>
+			<circle class="st0" cx="500" cy="500" r="437.4"/>
+			<g>
+				<g>
+					<path class="st1" d="M823.2,695.9H176.8L500,136.1L823.2,695.9z M206.4,678.9h587.3L500,170.3L206.4,678.9z"/>
+				</g>
+				<g>
+					<rect x="494.3" y="153.2" class="st1" width="11.4" height="199.4"/>
+				</g>
+				<g>
+
+						<rect x="118.2" y="514.3" transform="matrix(0.6776 -0.7354 0.7354 0.6776 -270.9384 421.9498)" class="st1" width="455.2" height="11.4"/>
+				</g>
+				<g>
+
+						<rect x="648.5" y="292.4" transform="matrix(0.7355 -0.6775 0.6775 0.7355 -179.2637 580.8024)" class="st1" width="11.4" height="455.2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>

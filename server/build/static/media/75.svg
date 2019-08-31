@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="l75"
+   x="0px"
+   y="0px"
+   viewBox="92.14798736572266 163.7993621826172 815.7040405273438 672.4012451171875"
+   width="100%"
+   height="100%"
+   style="enable-background:new 0 0 1000 1000;"
+   xml:space="preserve"
+  ><style
+     type="text/css"
+     id="style3">
+	#l75 .st0{fill:#F47878;}
+	#l75 .st1{fill:#D0AC70;}
+</style><switch
+     id="switch5"
+     transform="translate(-0.04801243,-16.699366)"><g
+       id="g7"><g
+         id="g9"><path
+           class="st0"
+           d="m 831,244.6 c -43.1,-57.3 -120.4,-73.9 -187.8,-58.5 -58,13.2 -105.5,49.6 -142.4,94.9 -32.3,-40.2 -72.9,-73.4 -122.4,-89.8 -63.2,-20.9 -139.7,-12 -190,33.9 -44.3,40.4 -58.6,99.2 -54.2,156.8 l 731.4,0 C 870,333.6 861.3,285 831,244.6 Z"
+           id="path11"
+           inkscape:connector-curvature="0"
+           style="fill:#f47878" /><path
+           class="st0"
+           d="m 289.2,671.5 c 60.1,65.5 129.2,122 200.7,174.6 3.1,2.3 6.2,4.5 9.3,6.8 3.9,-2.8 7.8,-5.7 11.6,-8.6 C 601,778.2 690.7,703.4 759.6,614 l -519.2,0 c 15.6,20 32,39.2 48.8,57.5 z"
+           id="path13"
+           inkscape:connector-curvature="0"
+           style="fill:#f47878" /><path
+           class="st1"
+           d="m 96.1,389.7 807.9,0 c 2.2,0 3.9,-1.8 3.9,-3.9 0,-2.2 -1.8,-3.9 -3.9,-3.9 l -38.4,0 -731.5,0 -38,0 c -2.2,0 -3.9,1.8 -3.9,3.9 -0.1,2.1 1.7,3.9 3.9,3.9 z"
+           id="path15"
+           inkscape:connector-curvature="0"
+           style="fill:#d0ac70" /><path
+           class="st1"
+           d="m 903.9,606.1 -807.8,0 c -2.2,0 -3.9,1.8 -3.9,3.9 0,2.2 1.8,3.9 3.9,3.9 l 144.4,0 519.1,0 144.4,0 c 2.2,0 3.9,-1.8 3.9,-3.9 0,-2.1 -1.8,-3.9 -4,-3.9 z"
+           id="path17"
+           inkscape:connector-curvature="0"
+           style="fill:#d0ac70" /></g></g></switch></svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+	 width="100%" height="100%"
+	 style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B9921D;}
+	.st1{fill:#FFFFFF;}
+</style>
+<switch>
+	<g>
+		<g>
+			<circle class="st0" cx="500" cy="500" r="422.8"/>
+			<g>
+				<g>
+					<path class="st1" d="M500,822.7L169.4,492.2L500,161.6l330.6,330.6L500,822.7z M190.3,492.2L500,801.8l309.7-309.7L500,182.5
+						L190.3,492.2z"/>
+				</g>
+				<g>
+					<rect x="179.9" y="487.2" class="st1" width="640.2" height="9.9"/>
+				</g>
+				<g>
+
+						<rect x="257.2" y="327.2" transform="matrix(0.3941 -0.9191 0.9191 0.3941 -43.8754 597.6831)" class="st1" width="348.3" height="9.9"/>
+				</g>
+				<g>
+
+						<rect x="426.4" y="478.1" transform="matrix(0.9191 -0.3941 0.3941 0.9191 -222.1423 222.8064)" class="st1" width="9.9" height="348.3"/>
+				</g>
+				<g>
+
+						<rect x="566.8" y="168.1" transform="matrix(0.8902 -0.4556 0.4556 0.8902 -91.9138 297.7938)" class="st1" width="9.9" height="342.9"/>
+				</g>
+				<g>
+
+						<rect x="398.2" y="647.3" transform="matrix(0.4238 -0.9057 0.9057 0.4238 -259.4831 896.5351)" class="st1" width="353.4" height="9.9"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>

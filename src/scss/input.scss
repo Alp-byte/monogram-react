@@ -1,0 +1,84 @@
+input {
+  &:focus,
+  &:active {
+    outline: none;
+  }
+}
+
+.label-helper {
+  color: #666666;
+}
+.InputAdd {
+  position: relative;
+  margin-bottom: 1.5em;
+}
+.form-error {
+  position: absolute;
+  color: red;
+  font-size: 12px;
+  font-weight: 400;
+}
+.InputAddOn {
+  display: flex;
+
+  &-field {
+    flex: 1;
+    align-items: center;
+    &::placeholder {
+      color: #ccc;
+    }
+  }
+  &-field:not(:first-child) {
+    border-left: 0;
+  }
+  &-field:not(:last-child) {
+    border-right: 0;
+  }
+
+  &-item-right {
+    border-left: 0 !important;
+    position: relative;
+
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 8px;
+      height: 50%;
+      width: 1px;
+      border-left: 1px solid rgba(147, 128, 108, 0.25);
+    }
+  }
+
+  &-field,
+  &-item-left {
+    border: 1px solid rgba(148, 148, 148, 0.459);
+    padding: 0.65em 0.75em;
+
+    &:first-child,
+    &:first-child {
+      border-radius: 4px 0 0 4px ;
+    }
+
+   
+  }
+
+  &-item-left {
+    border-right: none;
+  }
+
+  &-field,
+  &-item-right {
+    border: 1px solid rgba(148, 148, 148, 0.459);
+    padding: 0.65em 0.75em;
+
+    &:last-child,
+    &:last-child {
+      border-radius:  0 4px 4px 0;
+    }
+  }
+
+  &-item-right {
+    border-left: none;
+  }
+}

@@ -1,0 +1,234 @@
+@import 'mixins.scss';
+$animate: all 0.2s ease-in-out;
+.header {
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+
+  a {
+    color: #000;
+    &:hover,
+    &:active {
+      color: #000;
+    }
+  }
+
+  & .title {
+    margin-top: 11px;
+    margin-left: 14px;
+    width: 284px;
+  }
+  & .logo {
+    width: 55px;
+  }
+  &-section {
+    background-color: #fff;
+  }
+
+  &__link {
+    @include headerLink;
+  }
+  .header-item-label {
+    display: flex;
+    margin-right: 20px;
+    font-weight: 400;
+
+    text-align: center;
+
+    padding: 0;
+
+    transition: $animate;
+    position: relative;
+
+    &.active-link {
+      &:before,
+      &:after {
+        content: '';
+        position: absolute;
+        bottom: -7px;
+        width: 50%;
+        opacity: 1;
+        height: 2px;
+        margin: 2px 0 0;
+        transition: $animate;
+        transition-duration: 0.35s;
+      }
+
+      &:before {
+        left: calc(50%);
+        //width: 50%;
+        background-color: #79c2e9;
+      }
+      &:after {
+        right: calc(50%);
+        //width: 50%;
+        background-color: #79c2e9;
+      }
+    }
+    &:hover {
+      cursor: pointer;
+
+      &:before,
+      &:after {
+        width: 50%;
+        opacity: 1;
+      }
+    }
+    &:before,
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: -7px;
+      width: 0px;
+      height: 2px;
+      margin: 2px 0 0;
+      transition: $animate;
+      transition-duration: 0.35s;
+      opacity: 0;
+    }
+
+    &:before {
+      left: calc(50%);
+      //width: 50%;
+      background-color: #79c2e9;
+    }
+    &:after {
+      right: calc(50%);
+      //width: 50%;
+      background-color: #79c2e9;
+    }
+  }
+
+  .header-auth {
+    position: relative;
+    margin-right: 10px;
+
+    .auth-form-wrapper {
+      position: absolute;
+      box-shadow: -2px 0px 3px 0px rgba(0, 0, 0, 0.12);
+      left: -69px;
+      top: 24px;
+    }
+  }
+  .header-user-menu {
+    position: relative;
+    .user-warning-icon {
+      width: 19px;
+      height: 17px;
+      color: #ffc29c;
+    }
+    .user-header-wrapper {
+      position: absolute;
+      box-shadow: -2px 0px 3px 0px rgba(0, 0, 0, 0.12);
+      width: 100%;
+      min-width: 189px;
+
+      top: 24px;
+      z-index: 420;
+      background: #fff;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      .user-warning-notification {
+        background: #fff2ea;
+        margin: 10px 7px;
+        padding: 10px;
+        color: #ff934f;
+        font-size: 12px;
+        display: flex;
+        flex-direction: column;
+        /* font-weight: 400; */
+        &-error {
+          margin-top: 5px;
+          color: #ff4747;
+          font-weight: 400;
+        }
+        &-success {
+          margin-top: 5px;
+          color: #3e9230;
+          font-weight: 400;
+        }
+      }
+      .user-header-link {
+        margin: 5px auto;
+        color: #6d6d6d;
+        cursor: pointer;
+
+        &:hover {
+          color: #000;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+  .header-right {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+
+    .dropdown-menu-custom-wrapper {
+      position: relative;
+      .dropdown-menu-custom-btn {
+        font-size: 13px;
+        color: #afb2b3;
+        border-radius: 4px;
+        background: #f1f3f4;
+        padding: 5px 20px;
+        cursor: pointer;
+        i {
+          font-size: 12px;
+          color: #bdbdbd;
+          margin-left: 3px;
+        }
+      }
+      .dropdown-menu-custom {
+        h5 {
+          font-weight: 700;
+          font-size: 13px;
+          margin: 10px 1px;
+        }
+
+        background-color: #fff;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+        z-index: 101;
+        width: 230px;
+        position: absolute;
+        list-style: none;
+        padding: 14px;
+        right: 0px;
+        &-btn {
+          display: flex;
+          align-items: center;
+        }
+        li:first-child {
+          margin-top: 10px;
+        }
+        .divider {
+          border-bottom: 1px solid #eee;
+          padding-bottom: 5px;
+        }
+        a {
+          margin-bottom: 5px;
+          font-size: 0.9em;
+          font-weight: 500;
+          color: #555;
+          padding: 5px 0;
+
+          white-space: normal;
+          opacity: 0.7;
+          transition: all 0.1s ease-in-out;
+          display: flex;
+          flex-direction: column;
+          &:hover {
+            opacity: 1;
+            text-decoration: none;
+          }
+        }
+
+        img {
+          width: 150px;
+        }
+      }
+    }
+  }
+}

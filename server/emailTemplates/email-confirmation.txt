@@ -1,0 +1,9 @@
+Hey, {{name}}!
+
+ You've registered on MonogramMaker.com
+
+To confirm your Email Address please click on the link below:
+
+[Confirm Email]({{confirmUrl}})
+
+Cheers, MonogramMaker.com
