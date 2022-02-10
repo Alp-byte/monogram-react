@@ -113,7 +113,7 @@
   },
   "devDependencies": {
     "classnames": "^2.2.6",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "webpack-dev-middleware": "^3.7.0",
     "webpack-hot-middleware": "^2.25.0"
